@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 pyodbc
+psycopg2-binary
 pydantic
 sqlalchemy
 requests
