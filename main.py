@@ -7,6 +7,10 @@ class DialogflowRequest(BaseModel):
 
 app = FastAPI()
 
+@app.get("/")
+def read_root():
+    return {"message": "Welcome to my chatbot API!"}
+
 # PostgreSQL connection string from Railway
 DATABASE_URL = "postgresql://postgres:gJGOGUrxkVLPMVGLopEYbkXaqpItQUXs@caboose.proxy.rlwy.net:40581/railway"
 
