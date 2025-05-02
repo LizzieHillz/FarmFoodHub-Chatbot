@@ -114,5 +114,6 @@ Interested in contributing or suggesting features? Feel free to fork the repo, c
 **Chisom Elizabeth Omegor**  
 AI/ML Enthusiast | Data Analyst  
 📧: omegorchisom25@gmail.com.com
+LinkedIn (http://www.linkedin.com/in/chisom-elizabeth-omegor-a21906233)
 
 
