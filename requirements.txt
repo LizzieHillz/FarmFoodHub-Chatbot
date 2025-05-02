@@ -2,4 +2,6 @@ fastapi
 uvicorn
 pyodbc
 pydantic
+sqlalchemy
+requests
 python-dotenv
